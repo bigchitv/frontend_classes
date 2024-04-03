@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en.us">
+<head>
+<title>ecommerce business</title>
+</head>
+<body>
+
+<h1>bigchi online store</h1>
+<h2>we in business</h2>
+<h3>promo promo promo</h3>
+<h3>Come shop with us today </h3>
+
+
+
+<p>We sale all types of gadjets, phones etc.</p>
+<p>we deal on all types of gold plated cuban<br>100% silver cuban</p>
+<a href="http:/amazon.com" style="color:blue" target="_blank">take me to amazon</a>
+
+<img src="../intro-1651715013.jpg" alt="" style="width: 10%;">
+<img src="../SL1500_.jpg" alt="" style="width: 10%;">
+
+</body>
+</html>
+
+
+

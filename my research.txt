@@ -1,0 +1,11 @@
+Research and find out the reason for the acronyms ; HTML and CSS used to describe the 2 major technologies for web development
+
+HTML (Hypertext Markup Language) and CSS (Cascading Style Sheets) are essential technologies in web development and are used to create the structure and design of a website, respectively.
+
+The role of HTML is to provide the content and structure of a website. HTML elements, such as headings, paragraphs, and images, are used to define the content of a website and how it should be displayed.
+
+CSS, on the other hand, is used to specify the visual style of a website, including colors, fonts, layout, and more. CSS styles are applied to HTML elements, allowing web developers to create consistent and attractive designs that are separate from the content.
+
+HTML and CSS is used whenever you are creating a website. They provide the foundation for a well-structured and visually appealing website.
+
+In general, HTML and CSS is used whenever you want to create a static website, or a website that does not require complex dynamic interactions. They are also a good choice for small to medium-sized websites or projects, as they are simple to learn and use, and are widely supported across many different browsers and platforms.
