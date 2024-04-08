@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 50;
+    padding: 100;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: hwb(182 34% 14%);
+}
+
+.box {
+    padding: 20px;
+    background-color: hsl(75, 100%, 50%);
+    color: #e64545;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px #0000001a;
+}
